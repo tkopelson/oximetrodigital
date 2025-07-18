@@ -1,0 +1,12 @@
+../Core/Src/main.c:118:5:main	31
+../Core/Src/main.c:345:6:SystemClock_Config	4
+../Core/Src/main.c:396:13:MX_I2C1_Init	4
+../Core/Src/main.c:444:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:479:13:MX_GPIO_Init	1
+../Core/Src/main.c:503:19:EscrituraSensor	1
+../Core/Src/main.c:508:19:LecturaSensor	1
+../Core/Src/main.c:512:19:InicializacionSensor	3
+../Core/Src/main.c:540:19:LeerMuestra	2
+../Core/Src/main.c:552:7:CalcularSp02	4
+../Core/Src/main.c:592:6:EnviarSpO2PorBluetooth	1
+../Core/Src/main.c:608:6:Error_Handler	1
